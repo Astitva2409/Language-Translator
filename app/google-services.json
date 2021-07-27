@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "858670555434",
+    "project_id": "translator-e87db",
+    "storage_bucket": "translator-e87db.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:858670555434:android:3adb292d3b36927d757e53",
+        "android_client_info": {
+          "package_name": "com.example.translator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "858670555434-ppblfu22qjf4ile1t9ng068ve7sa3s7v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApeld__EBfi_Oty3yQKbpun4N9aVxZZ08"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "858670555434-ppblfu22qjf4ile1t9ng068ve7sa3s7v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
